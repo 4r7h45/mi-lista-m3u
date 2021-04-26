@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="01" tvg-name="TV Educa Chile" tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png", TV Educa Chile * | CL
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="02" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png", Mega  | CL
+http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="03" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h  | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="04" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="05" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png", Etc TV  | CL
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="06" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="07" tvg-name="CHV" tvg-logo="https://www.m3u.cl/logo/456_CHV.png", CHV  | CL
+http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="08" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13  | CL
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="09" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.png", La Red  | CL
+https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="10" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV  | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="11" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica  | US
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+# mi-lista-m3u
